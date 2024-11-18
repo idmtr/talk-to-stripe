@@ -7,4 +7,4 @@
 https://github.com/user-attachments/assets/574dceda-afd5-4501-b4bc-315df44c5d24
 
 
-## Speak to Stripe empowers you to effortlessly query and analyze your Stripe data using simple, natural language commands powered by advanced AI.
+## Speak to Stripe empowers you to effortlessly query and analyze your Stripe data using simple, natural language commands powered by OpenAI.
